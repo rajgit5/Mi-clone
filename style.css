@@ -1,0 +1,20 @@
+.big-sale{
+    background-color: #F9ECD4;
+    margin: 20px 150px 0px 150px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    height: 150px;
+}
+.diwali{
+    margin-left: 60px;
+    height: 50%;
+    margin-top: 30px;
+
+}
+.tv{
+    margin-right: 60px;
+}
+.big-sale h1{
+    margin-top: 30px;
+}
